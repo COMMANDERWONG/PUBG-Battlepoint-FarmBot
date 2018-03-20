@@ -65,11 +65,11 @@
     },
     "timers": {
       "refresh_rate": 0.5,
-      "wait_after_killing_a_game": 10,
+      "wait_after_killing_a_game": 5,
       "start_delay": 20,
       "animation_delay": 0.5,
-      "wait_for_players": 50,
-      "wait_for_plain": 300,
+      "wait_for_players": 30,
+      "wait_for_plain": 220,
       "exit_animation_delay": 1,
       "loading_delay": 3
     },
