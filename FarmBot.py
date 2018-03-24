@@ -255,7 +255,7 @@ class Bot:
                     sleep(wait_for_plane)
                     press('f')
                     print('F was hit')
-                    timeout = time() + 315 - wait_for_plane
+                    timeout = time() + 250 - wait_for_plane
                     keyDown('w')
                     # keyDown('d')
                     # keyDown('shiftleft')
